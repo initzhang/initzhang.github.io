@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: https://initzhang.github.io/
   - title: "Publications"
+    url: https://initzhang.github.io/#publications
+  - title: "Miscellaneous"
     url: https://initzhang.github.io/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
