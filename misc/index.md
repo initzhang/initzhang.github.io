@@ -10,7 +10,7 @@ I am very lucky and grateful to have a supportive and lovely family.
 <img src="/assets/images/wife.jpg" alt="">
 
 ↓ My parents, my little sister, and me during our trip to Zhoushan, Zhejiang in August 2020.
-<img src="/assets/images/family.jpg" alt="">
+<img src="/assets/images/paren-sis.jpg" alt="">
 
 
 <!--
