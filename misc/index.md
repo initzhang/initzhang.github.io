@@ -1,0 +1,27 @@
+---
+layout: single
+title: Miscellaneous
+---
+## Family
+
+I am very lucky and grateful to have a supportive and lovely family.
+
+↓ My beloved wife and me took some photos to celebrate our 5th anniversary in April 2021.
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/wife.jpg" alt="">
+
+↓ My parents, my little sister, and me during our trip to Zhoushan, Zhejiang in August 2020.
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/family.jpg" alt="">
+
+
+<!--
+<figure class="half">
+    <img src="/assets/images/family.jpg">
+    <img src="/assets/images/wife.jpg">
+    <figcaption>(1) My parents, my little sister, and me during our trip to Zhoushan, Zhejiang on Aug. 2020. (2) My beloved wife and me took a photo to celebrate our 5th anniversary since we fell in love. </figcaption>
+</figure>
+
+## Interests
+
+I love drinking Wuyi Rock Tea, and below shows two of my little teapots:)
+-->
+
