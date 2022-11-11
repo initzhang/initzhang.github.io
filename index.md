@@ -12,8 +12,8 @@ I am currently a second-year Ph.D. student (start from 2021) in the [DB4AI](http
 
 ## Publications
 
-* Feature-Oriented Sampling for Fast and Scalable GNN Training. **Xin Zhang**, Yanyan Shen, Lei Chen. *ICDM 2022*. paper & code coming soon.
-* HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training. Xupeng Miao, Yining Shi, Hailin Zhang, **Xin Zhang**, Xiaonan Nie, Zhi Yang, Bin Cui. *SIGMOD 2022*. [paper](https://dl.acm.org/doi/10.1145/3514221.3517902) [code](https://github.com/Hsword/SIGMOD2022_HET-GMP)
-* Machine Reading Comprehension: a Literature Review. **Xin Zhang**, An Yang, Sujian Li, Yizhong Wang. *Preprint on arxiv, 2019*. [paper](https://arxiv.org/abs/1907.01686)
+* $\underline{\text{Feature-Oriented Sampling for Fast and Scalable GNN Training}}$. **Xin Zhang**, Yanyan Shen, Lei Chen. *ICDM 2022*. [paper] & [code] coming soon.
+* $\underline{\text{HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.}}$ Xupeng Miao, Yining Shi, Hailin Zhang, **Xin Zhang**, Xiaonan Nie, Zhi Yang, Bin Cui. *SIGMOD 2022*. [[paper]](https://dl.acm.org/doi/10.1145/3514221.3517902) [[code]](https://github.com/Hsword/SIGMOD2022_HET-GMP)
+* $\underline{\text{Machine Reading Comprehension: a Literature Review.}}$ **Xin Zhang**, An Yang, Sujian Li, Yizhong Wang. *Preprint on arxiv, 2019*. [[paper]](https://arxiv.org/abs/1907.01686)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-eF-Gd5b26Y1KpMTRF0AGBZmeZAB5tmJ24HwGwWalNw&cl=ffffff&w=a"></script>
