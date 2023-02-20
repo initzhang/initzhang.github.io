@@ -15,12 +15,10 @@ I am currently a second-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.
 <u>Feature-Oriented Sampling for Fast and Scalable GNN Training.</u> <br />
 **Xin Zhang**, Yanyan Shen, Lei Chen. <br />
 *ICDM 2022*. [[paper]](https://ieeexplore.ieee.org/document/10027672) [[code]](https://github.com/initzhang/FOSGNN.git) <br />
-<br />
 
 <u>HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.</u> <br />
 Xupeng Miao, Yining Shi, Hailin Zhang, **Xin Zhang**, Xiaonan Nie, Zhi Yang, Bin Cui.<br />
 *SIGMOD 2022*. [[paper]](https://dl.acm.org/doi/10.1145/3514221.3517902) [[code]](https://github.com/Hsword/SIGMOD2022_HET-GMP) <br />
-<br />
 
 <u>Machine Reading Comprehension: a Literature Review.</u> <br />
 **Xin Zhang**, An Yang, Sujian Li, Yizhong Wang. <br />
