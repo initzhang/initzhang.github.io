@@ -12,18 +12,18 @@ I am currently a second-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.
 
 ## Publications
 
-<u>Feature-Oriented Sampling for Fast and Scalable GNN Training.</u> 
-**Xin Zhang**, Yanyan Shen, Lei Chen.
-*ICDM 2022*. [[paper]](https://ieeexplore.ieee.org/document/10027672) [[code]](https://github.com/initzhang/FOSGNN.git)
+<u>Feature-Oriented Sampling for Fast and Scalable GNN Training.</u> <br />
+**Xin Zhang**, Yanyan Shen, Lei Chen. <br />
+*ICDM 2022*. [[paper]](https://ieeexplore.ieee.org/document/10027672) [[code]](https://github.com/initzhang/FOSGNN.git) <br />
+<br />
 
+<u>HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.</u> <br />
+Xupeng Miao, Yining Shi, Hailin Zhang, **Xin Zhang**, Xiaonan Nie, Zhi Yang, Bin Cui.<br />
+*SIGMOD 2022*. [[paper]](https://dl.acm.org/doi/10.1145/3514221.3517902) [[code]](https://github.com/Hsword/SIGMOD2022_HET-GMP) <br />
+<br />
 
-<u>HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.</u> 
-Xupeng Miao, Yining Shi, Hailin Zhang, **Xin Zhang**, Xiaonan Nie, Zhi Yang, Bin Cui.
-*SIGMOD 2022*. [[paper]](https://dl.acm.org/doi/10.1145/3514221.3517902) [[code]](https://github.com/Hsword/SIGMOD2022_HET-GMP)
-
-
-<u>Machine Reading Comprehension: a Literature Review.</u>
-**Xin Zhang**, An Yang, Sujian Li, Yizhong Wang.
-*Preprint on arxiv, 2019*. [[paper]](https://arxiv.org/abs/1907.01686)
+<u>Machine Reading Comprehension: a Literature Review.</u> <br />
+**Xin Zhang**, An Yang, Sujian Li, Yizhong Wang. <br />
+*Preprint on arxiv, 2019*. [[paper]](https://arxiv.org/abs/1907.01686)<br />
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-eF-Gd5b26Y1KpMTRF0AGBZmeZAB5tmJ24HwGwWalNw&cl=ffffff&w=a"></script>
