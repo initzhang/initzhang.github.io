@@ -12,9 +12,14 @@ I am currently a second-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.
 
 ## Publications
 
+<u>DUCATI: A Dual-Cache Training System for Graph Neural Networks on Giant Graphs with the GPU.</u> <br />
+**Xin Zhang**, Yanyan Shen, Yingxia Shao, Lei Chen. <br />
+*Accepted by SIGMOD 2023*. [paper] & [code] coming soon.<br />
+
+
 <u>Feature-Oriented Sampling for Fast and Scalable GNN Training.</u> <br />
 **Xin Zhang**, Yanyan Shen, Lei Chen. <br />
-*ICDM 2022*. [[paper]](https://ieeexplore.ieee.org/document/10027672) [[code]](https://github.com/initzhang/FOSGNN.git) <br />
+*ICDM 2022*. [[paper]](https://ieeexplore.ieee.org/document/10027672) [[code]](https://github.com/initzhang/FOSGNN.git) (accept rate=85/870)<br />
 
 <u>HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.</u> <br />
 Xupeng Miao, Yining Shi, Hailin Zhang, **Xin Zhang**, Xiaonan Nie, Zhi Yang, Bin Cui.<br />
