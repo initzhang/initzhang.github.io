@@ -9,7 +9,7 @@ title: About
 
 I am currently a second-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.hk/db4ai/) group at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/). My research interest lies in the intersection of Graph Neural Networks and Machine Learning Systems. I received my Bachelor's degree (2016-2020) from the [School of EECS](http://eecs.pku.edu.cn/en/) at [Peking University (PKU)](https://english.pku.edu.cn/), where I was advised by Professor [Bin Cui](https://cuibinpku.github.io/) and Professor [Sujian Li](https://pku-tangent.github.io/#2-about). I have done several research&engineering internships at MSRA, Tencent, and Baidu.
 
-The pronounciation of my chinese name is similar to *Sheen* (for Xin/鑫) *Jung* (for Zhang/张) in English :)
+The pronounciation of my Chinese name is similar to *Sheen* (for Xin/鑫) *Jung* (for Zhang/张) in English :)
 
 
 ## Publications
