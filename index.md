@@ -7,7 +7,7 @@ title: About
     image: /assets/images/ust-photo.jpeg
 -->
 
-I am currently a third-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.hk/db4ai/) group at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/)(IEEE Fellow). My research interest lies in the intersection of Graph Neural Networks and Machine Learning Systems. I received my Bachelor's degree (2016-2020) from the [School of EECS](http://eecs.pku.edu.cn/en/) at [Peking University (PKU)](https://english.pku.edu.cn/), where I was advised by Professor [Bin Cui](https://cuibinpku.github.io/)(IEEE Fellow) and Professor [Sujian Li](https://pku-tangent.github.io/#2-about). I have done several research&engineering internships at MSRA, Tencent, and Baidu.
+I am currently a third-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.hk/db4ai/) group at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (IEEE Fellow). My research interest lies in the intersection of Graph Neural Networks and Machine Learning Systems. I received my Bachelor's degree (2016-2020) from the [School of EECS](http://eecs.pku.edu.cn/en/) at [Peking University (PKU)](https://english.pku.edu.cn/), where I was advised by Professor [Bin Cui](https://cuibinpku.github.io/) (IEEE Fellow) and Professor [Sujian Li](https://pku-tangent.github.io/#2-about). I have done several research&engineering internships at MSRA, Tencent, and Baidu.
 
 The pronounciation of my Chinese name is similar to *Sheen* (for Xin/鑫) *Jung* (for Zhang/张) in English :)
 
