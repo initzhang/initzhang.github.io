@@ -16,11 +16,11 @@ The pronounciation of my Chinese name is similar to *Sheen* (for Xin/鑫) *Jung*
 
 <u>Efficient Training of Graph Neural Networks on Large Graphs.</u> <br />
 Yanyan Shen, Lei Chen, Jingzhi Fang, **Xin Zhang**, Shihong Gao, Hongbo Yin. <br />
-*Accepted by VLDB 2024*.
+*Accepted by PVLDB 2024*. (tutorial track) <br />
 
 <u>SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement.</u> <br />
 Shihong Gao, Yiming Li, **Xin Zhang**, Yanyan Shen, Yingxia Shao, Lei Chen. <br />
-*Accepted by SIGMOD 2024*.
+*SIGMOD 2024*. [[paper]](https://dl.acm.org/doi/10.1145/3654977) [[code]](https://github.com/eddiegaoo/SIMPLE) (regular research track) <br />
 
 <u>DUCATI: A Dual-Cache Training System for Graph Neural Networks on Giant Graphs with the GPU.</u> <br />
 **Xin Zhang**, Yanyan Shen, Yingxia Shao, Lei Chen. <br />
@@ -40,4 +40,4 @@ Xupeng Miao, Yining Shi, Hailin Zhang, **Xin Zhang**, Xiaonan Nie, Zhi Yang, Bin
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-eF-Gd5b26Y1KpMTRF0AGBZmeZAB5tmJ24HwGwWalNw&cl=ffffff&w=a"></script>
 
-Last Update: June 2024
+Last Update: July 2024
