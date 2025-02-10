@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Xin Zhang (张鑫)"
   avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student @ HKUST" # first line
+  bio              : "PhD candidate @ HKUST" # first line
   location         : "Hong Kong"
   email            : # "xzhanggb@ust.hk"
   links:
