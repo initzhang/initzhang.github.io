@@ -108,11 +108,11 @@ author:
   avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD candidate @ HKUST" # first line
   location         : "Hong Kong"
-  email            : # "xzhanggb@ust.hk"
+  email            : "xzhanggb@ust.hk / sean.zhang@connect.ust.hk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:xzhanggb@ust.hk"
+      url: "mailto:sean.zhang@connect.ust.hk"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/xin-zhang-b91364191/"
