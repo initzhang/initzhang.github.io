@@ -16,7 +16,7 @@ The pronounciation of my Chinese name is similar to *Sheen* (for Xin/鑫) *Jung*
 
 <u>Apt-Serve: Adaptive Request Scheduling on Hybrid Cache for Scalable LLM Inference Serving</u> <br />
 Shihong Gao, **Xin Zhang**, Yanyan Shen, Lei Chen. <br />
-*SIGMOD 2025*. [[paper]](https://arxiv.org/abs/2504.07494) [[code]](https://xinzhang.me) (regular research track) <br />
+*SIGMOD 2025*. [[paper]](https://arxiv.org/abs/2504.07494) [[code]](https://github.com/eddiegaoo/Apt-Serve) (regular research track) <br />
 
 <u>Efficient Training of Graph Neural Networks on Large Graphs.</u> <br />
 Yanyan Shen, Lei Chen, Jingzhi Fang, **Xin Zhang**, Shihong Gao, Hongbo Yin. <br />
