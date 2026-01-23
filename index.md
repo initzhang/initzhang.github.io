@@ -7,20 +7,31 @@ title: About
     image: /assets/images/ust-photo.jpeg
 -->
 
-I am currently a fourth-year Ph.D. candidate in the [DB4AI](https://cse.hkust.edu.hk/db4ai/) group at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (ACM & IEEE Fellow). My research interest is building efficient systems for popular deep learning models, such as Large Language Models, Graph Neural Networks, and Recommendation Models. I received my Bachelor's degree (2016-2020) from the [School of EECS](http://eecs.pku.edu.cn/en/) at [Peking University (PKU)](https://english.pku.edu.cn/), where I was advised by Professor [Bin Cui](https://cuibinpku.github.io/) (IEEE Fellow) and Professor [Sujian Li](https://pku-tangent.github.io/#2-about). I have done several research&engineering internships at MSRA, Tencent, and Baidu.
+## Short Bio
 
-The pronounciation of my Chinese name is similar to *Sheen* (for Xin/鑫) *Jung* (for Zhang/张) in English :)
+I am currently a fifth-year Ph.D. candidate at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (ACM & IEEE Fellow). I received my Bachelor's degree (2016-2020) from the [School of EECS](http://eecs.pku.edu.cn/en/) at [Peking University (PKU)](https://english.pku.edu.cn/), where I was advised by Professor [Bin Cui](https://cuibinpku.github.io/) (IEEE Fellow).
 
+## Research Interest
+
+My research focuses on building **Machine Learning Systems** for modern deep learning workloads, including Large Language Models, Graph Neural Networks, and Recommendation Models. My work spans the full model lifecycle, addressing challenges in both scalable training and efficient serving. 
 
 ## Publications
 
-<u>Apt-Serve: Adaptive Request Scheduling on Hybrid Cache for Scalable LLM Inference Serving</u> <br />
+<u>Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling.</u> <br />
+**Xin Zhang**, Yanyan Shen, Yingxia Shao, Haoyang Li, Lei Chen. <br />
+*Accepted by PVLDB 2026*. (research track) <br />
+
+<u>RelServe: Fast LLM Inference Serving on Relational Data.</u> <br />
+**Xin Zhang**, Shihong Gao, Yanyan Shen, Haoyang Li, Lei Chen. <br />
+*Preprint 2025*. [[paper]](https://www.arxiv.org/abs/2601.11546) <br />
+
+<u>Apt-Serve: Adaptive Request Scheduling on Hybrid Cache for Scalable LLM Inference Serving.</u> <br />
 Shihong Gao, **Xin Zhang**, Yanyan Shen, Lei Chen. <br />
 *SIGMOD 2025*. [[paper]](https://arxiv.org/abs/2504.07494) [[code]](https://github.com/eddiegaoo/Apt-Serve) (regular research track) <br />
 
 <u>Efficient Training of Graph Neural Networks on Large Graphs.</u> <br />
 Yanyan Shen, Lei Chen, Jingzhi Fang, **Xin Zhang**, Shihong Gao, Hongbo Yin. <br />
-*VLDB 2024*. [[paper]](https://dl.acm.org/doi/10.14778/3685800.3685844) [[code]](https://github.com/SJTU-DMTai/Data-Management-for-GNN-Training) (tutorial track) <br />
+*PVLDB 2024*. [[paper]](https://dl.acm.org/doi/10.14778/3685800.3685844) [[code]](https://github.com/SJTU-DMTai/Data-Management-for-GNN-Training) (tutorial track) <br />
 
 <u>SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement.</u> <br />
 Shihong Gao, Yiming Li, **Xin Zhang**, Yanyan Shen, Yingxia Shao, Lei Chen. <br />
@@ -40,8 +51,8 @@ Xupeng Miao, Yining Shi, Hailin Zhang, **Xin Zhang**, Xiaonan Nie, Zhi Yang, Bin
 
 <u>Machine Reading Comprehension: a Literature Review.</u> <br />
 **Xin Zhang**, An Yang, Sujian Li, Yizhong Wang. <br />
-*Preprint on arXiv, 2019*. [[paper]](https://arxiv.org/abs/1907.01686)<br />
+*Preprint 2019*. [[paper]](https://arxiv.org/abs/1907.01686)<br />
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-eF-Gd5b26Y1KpMTRF0AGBZmeZAB5tmJ24HwGwWalNw&cl=ffffff&w=a"></script>
 
-Last Update: April 2025
+Last Update: Jan. 2026
