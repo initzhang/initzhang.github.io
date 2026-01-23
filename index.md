@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 title: Xin Zhang
+classes: wide
 ---
 <!--header:
     image: /assets/images/ust-photo.jpeg
