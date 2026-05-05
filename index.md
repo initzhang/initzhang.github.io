@@ -9,7 +9,7 @@ classes: wide
 
 ## Short Bio
 
-I am currently a fifth-year Ph.D. candidate at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (ACM & IEEE Fellow). I obtained my Bachelor's degree (2016-2020) from [Peking University (PKU)](https://english.pku.edu.cn/), where I was advised by Professor [Bin Cui](https://cuibinpku.github.io/) (IEEE Fellow).
+I am currently a final year Ph.D. candidate at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (ACM & IEEE Fellow). I obtained my Bachelor's degree (2016-2020) from [Peking University (PKU)](https://english.pku.edu.cn/), where I was advised by Professor [Bin Cui](https://cuibinpku.github.io/) (IEEE Fellow).
 
 ## Research Interest
 
@@ -19,7 +19,7 @@ My research focuses on building **Machine Learning Systems** for modern deep lea
 
 <u>Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling.</u> <br />
 **Xin Zhang**, Yanyan Shen, Yingxia Shao, Haoyang Li, Lei Chen. <br />
-*Accepted by PVLDB 2026*. (research track) <br />
+*PVLDB 2026*. [[paper]](https://www.vldb.org/pvldb/vol19/p1184-zhang.pdf) [[code]](https://xinzhang.me) (regular research track) <br />
 
 <u>RelServe: Fast LLM Inference Serving on Relational Data.</u> <br />
 **Xin Zhang**, Shihong Gao, Yanyan Shen, Haoyang Li, Lei Chen. <br />
@@ -55,4 +55,4 @@ Xupeng Miao, Yining Shi, Hailin Zhang, **Xin Zhang**, Xiaonan Nie, Zhi Yang, Bin
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-eF-Gd5b26Y1KpMTRF0AGBZmeZAB5tmJ24HwGwWalNw&cl=ffffff&w=a"></script>
 
-Last Update: Jan. 2026
+Last Update: May 2026
