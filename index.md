@@ -9,7 +9,7 @@ classes: wide
 
 ## Short Bio
 
-I am currently a final year Ph.D. candidate at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (ACM & IEEE Fellow). I obtained my Bachelor's degree (2016-2020) from [Peking University (PKU)](https://english.pku.edu.cn/), where I was advised by Professor [Bin Cui](https://cuibinpku.github.io/) (IEEE Fellow).
+I am currently a final-year Ph.D. candidate at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (ACM & IEEE Fellow). I obtained my Bachelor's degree (2016-2020) from [Peking University (PKU)](https://english.pku.edu.cn/), where I was advised by Professor [Bin Cui](https://cuibinpku.github.io/) (IEEE Fellow).
 
 ## Research Interest
 
