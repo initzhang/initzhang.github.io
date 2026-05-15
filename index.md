@@ -19,7 +19,7 @@ My research focuses on building **Machine Learning Systems** for modern deep lea
 
 <u>Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling.</u> <br />
 **Xin Zhang**, Yanyan Shen, Yingxia Shao, Haoyang Li, Lei Chen. <br />
-*PVLDB 2026*. [[paper]](https://www.vldb.org/pvldb/vol19/p1184-zhang.pdf) [[code]](https://xinzhang.me) (regular research track) <br />
+*PVLDB 2026*. [[paper]](https://www.vldb.org/pvldb/vol19/p1184-zhang.pdf) [[code]](https://xinzhang.me) <br />
 
 <u>RelServe: Fast LLM Inference Serving on Relational Data.</u> <br />
 **Xin Zhang**, Shihong Gao, Yanyan Shen, Haoyang Li, Lei Chen. <br />
@@ -27,23 +27,23 @@ My research focuses on building **Machine Learning Systems** for modern deep lea
 
 <u>Apt-Serve: Adaptive Request Scheduling on Hybrid Cache for Scalable LLM Inference Serving.</u> <br />
 Shihong Gao, **Xin Zhang**, Yanyan Shen, Lei Chen. <br />
-*SIGMOD 2025*. [[paper]](https://arxiv.org/abs/2504.07494) [[code]](https://github.com/eddiegaoo/Apt-Serve) (regular research track) <br />
+*SIGMOD 2025*. [[paper]](https://arxiv.org/abs/2504.07494) [[code]](https://github.com/eddiegaoo/Apt-Serve) <br />
 
 <u>Efficient Training of Graph Neural Networks on Large Graphs.</u> <br />
 Yanyan Shen, Lei Chen, Jingzhi Fang, **Xin Zhang**, Shihong Gao, Hongbo Yin. <br />
-*PVLDB 2024*. [[paper]](https://dl.acm.org/doi/10.14778/3685800.3685844) [[code]](https://github.com/SJTU-DMTai/Data-Management-for-GNN-Training) (tutorial track) <br />
+*PVLDB 2024*. [[paper]](https://dl.acm.org/doi/10.14778/3685800.3685844) [[code]](https://github.com/SJTU-DMTai/Data-Management-for-GNN-Training)  <br />
 
 <u>SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement.</u> <br />
 Shihong Gao, Yiming Li, **Xin Zhang**, Yanyan Shen, Yingxia Shao, Lei Chen. <br />
-*SIGMOD 2024*. [[paper]](https://dl.acm.org/doi/10.1145/3654977) [[code]](https://github.com/eddiegaoo/SIMPLE) (regular research track) <br />
+*SIGMOD 2024*. [[paper]](https://dl.acm.org/doi/10.1145/3654977) [[code]](https://github.com/eddiegaoo/SIMPLE) <br />
 
 <u>DUCATI: A Dual-Cache Training System for Graph Neural Networks on Giant Graphs with the GPU.</u> <br />
 **Xin Zhang**, Yanyan Shen, Yingxia Shao, Lei Chen. <br />
-*SIGMOD 2023*. [[paper]](https://dl.acm.org/doi/10.1145/3589311) [[code]](https://github.com/initzhang/DUCATI_SIGMOD) (regular research track) <br />
+*SIGMOD 2023*. [[paper]](https://dl.acm.org/doi/10.1145/3589311) [[code]](https://github.com/initzhang/DUCATI_SIGMOD) <br />
 
 <u>Feature-Oriented Sampling for Fast and Scalable GNN Training.</u> <br />
 **Xin Zhang**, Yanyan Shen, Lei Chen. <br />
-*ICDM 2022*. [[paper]](https://ieeexplore.ieee.org/document/10027672) [[code]](https://github.com/initzhang/FOSGNN.git) (accept rate=85/870)<br />
+*ICDM 2022*. [[paper]](https://ieeexplore.ieee.org/document/10027672) [[code]](https://github.com/initzhang/FOSGNN.git) <br />
 
 <u>HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.</u> <br />
 Xupeng Miao, Yining Shi, Hailin Zhang, **Xin Zhang**, Xiaonan Nie, Zhi Yang, Bin Cui.<br />
