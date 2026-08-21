@@ -20,7 +20,7 @@ Dr. Xin Zhang's research focuses on building **Machine Learning Systems** for mo
 
 <u>Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling.</u> <br />
 **Xin Zhang**, Yanyan Shen, Yingxia Shao, Haoyang Li, Lei Chen. <br />
-*PVLDB 2026*. [[paper]](https://www.vldb.org/pvldb/vol19/p1184-zhang.pdf) [[code]](https://xinzhang.me) <br />
+*PVLDB 2026*. [[paper]](https://www.vldb.org/pvldb/vol19/p1184-zhang.pdf) [[code]](https://github.com/initzhang/MorphGL) <br />
 
 <u>Graph Neural Network Training: From Data Management Perspective</u> <br />
 *Springer Nature 2026.* [[book]](https://link.springer.com/book/10.1007/978-981-95-5795-0) <br />
