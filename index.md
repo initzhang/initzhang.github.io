@@ -10,13 +10,23 @@ classes: wide
 ## Short Bio
 
 Dr. Xin Zhang obtained his PhD degree in Individualized Interdisciplinary Program (Data Science and Analytics)
-from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2026, under the supervision of Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (ACM & IEEE Fellow). He received his Bachelor's degree in Intelligence Science and Technology from [Peking University (PKU)](https://english.pku.edu.cn/) in 2020, where he was advised by Professor [Bin Cui](https://cuibinpku.github.io/) (IEEE Fellow).
+from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2026, under the supervision of Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (ACM Fellow & IEEE Fellow). He received his Bachelor's degree in Intelligence Science and Technology from [Peking University (PKU)](https://english.pku.edu.cn/) in 2020, where he was advised by Professor [Bin Cui](https://cuibinpku.github.io/) (IEEE Fellow).
+
+
 
 ## Research Interest
 
-Dr. Xin Zhang's research focuses on building **Machine Learning Systems** for modern deep learning workloads, including Large Language Models, Graph Neural Networks, and Recommendation Models. His work spans the full model lifecycle, addressing challenges in both scalable training and efficient serving. 
+Dr. Xin Zhang’s research focuses on building efficient **Machine Learning Systems** tailored for modern deep learning workloads, including Large Language Models (LLMs), Graph Neural Networks (GNNs), and Recommendation Systems. His work spans the end-to-end model lifecycle, addressing core challenges in both scalable training and efficient serving.
+
+His current work focuses on **LLM inference optimization**, targeting KV cache management in online serving, efficient chunk reuse for RAG service, and intelligent batching/scheduling for semantic operators. His prior research centered on scaling GNN and Recommendation model training through GPU data caching, heterogeneous workload dispatching, and optimized data sampling.
+
+
 
 ## Publications
+
+<u>SLO-Driven Dual-Budget Scheduling for Cache-Enabled RAG Serving.</u> <br />
+Hongbo Yin, **Xin Zhang**, Jingzhi Fang, Yanyan Shen, Lei Chen. <br />
+*Accepted by ICDE 2027*. <br />
 
 <u>Efficient GNN Training on Giant Graphs with Collective Batching and Scheduling.</u> <br />
 **Xin Zhang**, Yanyan Shen, Yingxia Shao, Haoyang Li, Lei Chen. <br />
@@ -58,6 +68,8 @@ Xupeng Miao, Yining Shi, Hailin Zhang, **Xin Zhang**, Xiaonan Nie, Zhi Yang, Bin
 *Preprint 2019*. [[paper]](https://arxiv.org/abs/1907.01686)<br />
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-eF-Gd5b26Y1KpMTRF0AGBZmeZAB5tmJ24HwGwWalNw&cl=ffffff&w=a"></script>
+
+
 
 ## Services
 
