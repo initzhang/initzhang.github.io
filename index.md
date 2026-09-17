@@ -9,8 +9,7 @@ classes: wide
 
 ## Short Bio
 
-Dr. Xin Zhang obtained his PhD degree in Individualized Interdisciplinary Program (Data Science and Analytics)
-from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2026, under the supervision of Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (ACM Fellow & IEEE Fellow). He received his Bachelor's degree in Intelligence Science and Technology from [Peking University (PKU)](https://english.pku.edu.cn/) in 2020, where he was advised by Professor [Bin Cui](https://cuibinpku.github.io/) (IEEE Fellow).
+Dr. Xin Zhang obtained his PhD degree from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2026, under the supervision of Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (ACM Fellow & IEEE Fellow). He received his Bachelor's degree from [Peking University (PKU)](https://english.pku.edu.cn/) in 2020, where he was advised by Professor [Bin Cui](https://cuibinpku.github.io/) (IEEE Fellow).
 
 
 
@@ -18,7 +17,7 @@ from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.
 
 Dr. Xin Zhang’s research focuses on building efficient **Machine Learning Systems** tailored for modern deep learning workloads, including Large Language Models (LLMs), Graph Neural Networks (GNNs), and Recommendation Systems. His work spans the end-to-end model lifecycle, addressing core challenges in both scalable training and efficient serving.
 
-His current work focuses on **LLM inference optimization**, targeting KV cache management in online serving, efficient chunk reuse for RAG service, and intelligent batching/scheduling for semantic operators. His prior research centered on scaling GNN and Recommendation model training through GPU data caching, heterogeneous workload dispatching, and optimized data sampling.
+His current work focuses on **LLM inference optimization**, improving KV cache management in online serving, chunk reuse for RAG service, and batching/scheduling for semantic operators. His prior research centered on scaling GNN and Recommendation model training through GPU caching, heterogeneous workload dispatching, and optimized data sampling.
 
 
 
@@ -83,4 +82,4 @@ Invited journal reviewer:
 * TAC (IEEE Transactions on Affective Computing) 2026
 * FCS (Frontiers of Computer Science) 2026
 
-Last Update: August 2026
+Last Update: September 2026
